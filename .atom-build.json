@@ -1,0 +1,4 @@
+{
+  "cmd": "node {FILE_ACTIVE}",
+  "name": "{FILE_ACTIVE_NAME}"
+}
