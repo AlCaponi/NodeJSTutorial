@@ -1,4 +1,5 @@
 {
   "cmd": "node {FILE_ACTIVE}",
-  "name": "{FILE_ACTIVE_NAME}"
+  "name": "{FILE_ACTIVE_NAME}",
+  "cwd": "{FILE_ACTIVE_PATH}"
 }
